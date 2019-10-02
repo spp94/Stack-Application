@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 public class Expression {
 	public boolean isBalanced(String input){
 		Stack<Character> stack = new Stack<Character>();
